@@ -1,4 +1,4 @@
-# kk
+# Say HI to Morty
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@KuchiKopi/30-nites-of-code)  
